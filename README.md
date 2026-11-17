@@ -16,6 +16,13 @@ Portfolio Website: [gaurangi-portfolio-website.vercel.app](https://gaurangi-port
 **Databases & services:** MongoDB · MySQL · Supabase  
 **Tools:** Git · GitHub · Linux · Docker
 
+## Featured Projects
+
+- **[CuraMap](https://github.com/Gaurangi25/CuraMap)** — A full-stack hospital locator with Google Maps integration and secure hospital administration.
+
+- **[Fitbit ML Project](https://github.com/Gaurangi25/Fitbit-ML-project)** — A machine learning system that predicts mood and productivity, detects heart-rate anomalies, and recommends personalized activities.
+
+- **[ReelMind](https://github.com/Gaurangi25/ReelMind)** — An AI-powered bookmarking app that organizes Instagram and YouTube content into personalized folders.
 
 ## GitHub Activity
 
@@ -39,15 +46,6 @@ Portfolio Website: [gaurangi-portfolio-website.vercel.app](https://gaurangi-port
     alt="GitHub contribution streak"
   />
 </div>
-
-## Featured Projects
-
-- **[CuraMap](https://github.com/Gaurangi25/CuraMap)** — A full-stack hospital locator with Google Maps integration and secure hospital administration.
-
-- **[Fitbit ML Project](https://github.com/Gaurangi25/Fitbit-ML-project)** — A machine learning system that predicts mood and productivity, detects heart-rate anomalies, and recommends personalized activities.
-
-- **[ReelMind](https://github.com/Gaurangi25/ReelMind)** — An AI-powered bookmarking app that organizes Instagram and YouTube content into personalized folders.
-
 
 ## Connect
 

@@ -24,6 +24,7 @@ Portfolio Website: [gaurangi-portfolio-website.vercel.app](https://gaurangi-port
 
 - **[ReelMind](https://github.com/Gaurangi25/ReelMind)** — An AI-powered bookmarking app that organizes Instagram and YouTube content into personalized folders.
 
+
 ## GitHub Activity
 
 <div align="center">
@@ -46,6 +47,7 @@ Portfolio Website: [gaurangi-portfolio-website.vercel.app](https://gaurangi-port
     alt="GitHub contribution streak"
   />
 </div>
+
 
 ## Connect
 

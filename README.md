@@ -1,6 +1,6 @@
 ### Hey, I'm Gaurangi 👋
 
-**Final-year Computer Science undergraduate at JIIT Noida · Class of 2027**
+**Final-year Computer Science undergraduate at JIIT Noida**
 
 I'm interested in the engineering behind software — how systems are designed, how different components work together, and how ideas turn into reliable, useful applications.
 

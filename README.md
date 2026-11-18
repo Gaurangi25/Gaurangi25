@@ -6,7 +6,6 @@ I'm interested in the engineering behind software — how systems are designed, 
 
 My work spans **backend development, full-stack engineering, and AI/ML**, with a growing focus on system design, cloud technologies, and building scalable applications.
 
-Portfolio Website: [gaurangi-portfolio-website.vercel.app](https://gaurangi-portfolio-website.vercel.app/) 
 
 ## Tech stack
 
@@ -53,5 +52,4 @@ Portfolio Website: [gaurangi-portfolio-website.vercel.app](https://gaurangi-port
 
 I'm always open to connecting, exchanging ideas, and discussing interesting projects.
 
-🌐 [Portfolio](https://gaurangi-portfolio-website.vercel.app/)  
 💼 [LinkedIn](https://www.linkedin.com/in/gaurangi-agarwal-26b705292/)
